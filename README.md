@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+******
+This project requires the [face detection api](https://github.com/AsemBasheer/face-detection-api).
+******
+
 ## Available Scripts
 
 In the project directory, you can run:
